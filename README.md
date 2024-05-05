@@ -10,8 +10,8 @@
 </ul>
 <hr>
 <h3>🌐 Social Media:</h3>
-[<img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord">](https://discordapp.com/users/monnaca)
-[<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook">](https://facebook.com/hoshimachy)
+<a href="https://discordapp.com/users/monnaca"><img alt="Discord" src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord" /></a>
+<a href="https://facebook.com/hoshimachy"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" /></a>
 <br>
 <h3>📚 Languages:</h3>
 <img src="https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust" />
