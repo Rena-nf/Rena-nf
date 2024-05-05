@@ -1,7 +1,22 @@
-### Hi there curious reader
+<h2 align=center>Hey, I'm Rena</h2>
 ---
-##### My name is *Serika*, I goes by the name Monnaca or Reina online (for some undescribeable reason).
+<h4>I do programming for the fun of it</h4>
+<p>Most of the time at least... In my free time</p>
+\
+\
+\
+- 📖 I'm currently learning C, CPP, and C#
+- 🖥️ My projects are mostly in my repos (Most of them are private for the time being)
+- 📫 You can reach me with my email : coreanfathir6@gmail.com
+\
+\
 
-As of now I do Graphic design temporarily but I'm still learning on how to do back end programming
+🌐 <h3>Social Media:</h3>
 ---
-~ About Me ~
+[![Discord](https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord)](https://discordapp.com/users/monnaca)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://facebook.com/hoshimachy)
+---
+📚 <h3>Languages:</h3>
+---
+<img src="https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust" />
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
