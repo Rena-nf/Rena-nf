@@ -5,7 +5,7 @@
 <p>Most of the time at least... In my free time</p>
 <br>
 <ul>
-  <li>📖 I'm currently learning C, CPP, and C#</li>
+  <li>📖 I'm currently (Re)learning Javascript and PHP (because i still needs jobs apparently)</li>
   <li>🖥️ My projects are mostly in my repos (Most of them are private for the time being)</li>
   <li>📫 You can reach me with my email : coreanfathir6@gmail.com</li>
 </ul>
