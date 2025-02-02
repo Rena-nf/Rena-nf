@@ -5,7 +5,7 @@
 <p>Most of the time at least... In my free time</p>
 <br>
 <ul>
-  <li>📖 I'm currently (Re)learning Javascript and PHP (because i still needs jobs apparently)</li>
+  <li>📖 I'm currently learning PHP (because i still needs jobs apparently)</li>
   <li>🖥️ My projects are mostly in my repos (Most of them are private for the time being)</li>
   <li>📫 You can reach me through my email : coreanfathir6@gmail.com</li>
 </ul>
@@ -20,7 +20,7 @@
 <img alt="Rust logo" src="https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust" />
 <img alt="Python logo" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
 <img alt="Typescript logo" src="https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript" />
-<h3>![image](https://github.com/user-attachments/assets/8e2d7dba-eaa7-458b-b325-fd4844bfcaae) Framework:</h3>
+<h3>💽 Framework:</h3>
 <img alt="Nextjs logo" src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=nextdotjs" />
 <img alt="React logo" src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react" />
 <img alt="Nuxtjs logo" src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt" />
