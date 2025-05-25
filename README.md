@@ -5,7 +5,7 @@
 <p>Most of the time at least... In my free time</p>
 <br>
 <ul>
-  <li>📖 I'm currently learning PHP (because i still needs jobs apparently)</li>
+  <li>📖 I'm currently learning Golang (because i still needs jobs apparently)</li>
   <li>🖥️ My projects are mostly in my repos (Most of them are private for the time being)</li>
   <li>📫 You can reach me through my email : coreanfathir6@gmail.com</li>
 </ul>
