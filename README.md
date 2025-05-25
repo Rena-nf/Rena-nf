@@ -15,17 +15,12 @@
 <a href="https://mastodon.social/@Rena_nf"><img alt="Mastodon" src="https://img.shields.io/badge/MASTODON-white?style=for-the-badge&logo=mastodon" /></a>
 <br>
 <h3>📚 Languages:</h3>
-<img alt="Dart logo" src="https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart" />
-<img alt="Javascript logo" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+<img alt="Golang logo" src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go" />
 <img alt="Rust logo" src="https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust" />
-<img alt="Python logo" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
 <img alt="Typescript logo" src="https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript" />
 <h3>💽 Framework:</h3>
-<img alt="Nextjs logo" src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=nextdotjs" />
-<img alt="React logo" src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react" />
 <img alt="Nuxtjs logo" src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt" />
 <img alt="Vuejs logo" src="https://img.shields.io/badge/VueJs-black?style=for-the-badge&logo=vuedotjs" />
-<img alt="Flutter logo" src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter" />
 <hr />
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
